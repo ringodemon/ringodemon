@@ -42,11 +42,11 @@
  </p>
  <p align="center">
 <img width="20" height="20" alt="7" src="https://github.com/user-attachments/assets/8266c21a-2624-4c62-a5f7-34b8ba93ed07" />
- $\color{#cc0220}\textsf{he/it. chat usually off w2i }$
+ $\color{#cc0220}\textsf{he/it. pings usually off }$
 <img width="20" height="20" alt="7" src="https://github.com/user-attachments/assets/8266c21a-2624-4c62-a5f7-34b8ba93ed07" />
 </p>
 <p align="center">
-$\color{#8a0015}\textsf{c*h heavliy enc ✧ dncopy }$
+$\color{#8a0015}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
 </p>
 <p align="center">
 <img width="22" height="22" alt="3" src="https://github.com/user-attachments/assets/4a14aa4c-120b-4743-bbcc-6a850774e7e5" />

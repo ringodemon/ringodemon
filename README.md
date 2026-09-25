@@ -34,7 +34,7 @@
 </p>
 <p align="center"
   
-  $\color{#eb4934}\textsf{my name is kei but i respond to anything}$ 
+  $\color{#eb4934}\textsf{my name is mega/dom but i respond to anything}$ 
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
  </p>
  <p align="center">
 <img width="20" height="20" alt="7" src="https://github.com/user-attachments/assets/8266c21a-2624-4c62-a5f7-34b8ba93ed07" />
- $\color{#cc0220}\textsf{he/it. pings usually off }$
+ $\color{#cc0220}\textsf{it/its , he/him. pings usually off }$
 <img width="20" height="20" alt="7" src="https://github.com/user-attachments/assets/8266c21a-2624-4c62-a5f7-34b8ba93ed07" />
 </p>
 <p align="center">

@@ -1,5 +1,5 @@
 <p align="center">
-<img width="750" height="787" alt="eeee" src="https://github.com/user-attachments/assets/cb176306-59d5-4204-9b21-d5e24f218123" />
+<img width="736" height="1200" alt="73152aff71ca136d31e62e8c068f50c3" src="https://github.com/user-attachments/assets/554b37b9-bc7d-445a-b47a-1c6ad5758f3d" />
 </p>
 <p align="center">
 <img width="75" height="18" alt="24" src="https://github.com/user-attachments/assets/ff650c3f-b7f4-429e-ab4e-2c9ca3fa3113" />
@@ -28,33 +28,34 @@
 </p>
 
 <p align="center">
-<img width="20" height="20" alt="cross3" src="https://github.com/user-attachments/assets/ccb0f245-f6e2-43c2-a169-3792aa2fc598" />
-  $\color{#eb4934}\textsf{"All my gente, they know that I've been that shit"}$ 
-<img width="20" height="20" alt="cross3" src="https://github.com/user-attachments/assets/ccb0f245-f6e2-43c2-a169-3792aa2fc598" />
+<img width="20" height="20" alt="purple8" src="https://github.com/user-attachments/assets/c72064ac-8e21-407b-85d8-4aba0cf4d9e5" />
+  $\color{#664694}\textsf{"All my gente, they know that I've been that shit"}$ 
+<img width="20" height="20" alt="purple8" src="https://github.com/user-attachments/assets/da2478c5-6c15-4edd-9907-c078ad358d7c" />
 </p>
 <p align="center"
   
-  $\color{#eb4934}\textsf{my name is mega/dom but i respond to anything}$ 
+  $\color{#664694}\textsf{my name is mega/dom but i respond to anything}$ 
 </p>
 
 <p align="center">
- $\color{#cc0220}\textsf{19 | adhd | infp-t | 5w6 }$
+ $\color{#56328a}\textsf{19 | adhd | infp-t | 5w6 }$
  </p>
  <p align="center">
-<img width="20" height="20" alt="7" src="https://github.com/user-attachments/assets/8266c21a-2624-4c62-a5f7-34b8ba93ed07" />
- $\color{#cc0220}\textsf{it/its , he/him. pings usually off }$
-<img width="20" height="20" alt="7" src="https://github.com/user-attachments/assets/8266c21a-2624-4c62-a5f7-34b8ba93ed07" />
+<img width="20" height="20" alt="star93" src="https://github.com/user-attachments/assets/830904be-ad3d-4891-8dd8-d70e08936b99" />
+ $\color{#56328a}\textsf{it/its , he/him. pings usually off }$
+<img width="20" height="20" alt="star93" src="https://github.com/user-attachments/assets/3aee6c22-a614-4096-a983-b82ff1755401" />
 </p>
 <p align="center">
-$\color{#8a0015}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
+$\color{#441d7a}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
 </p>
 <p align="center">
-<img width="22" height="22" alt="3" src="https://github.com/user-attachments/assets/4a14aa4c-120b-4743-bbcc-6a850774e7e5" />
-$\color{#8a0015}\textsf{i dont really have a dni apart from like the general dni}$
-<img width="22" height="22" alt="3" src="https://github.com/user-attachments/assets/30df71cf-818e-44fa-b8ec-3171e61e3611" />
+<img width="20" height="20" alt="purple4" src="https://github.com/user-attachments/assets/693490e0-79d6-4c12-a708-53d316ffb99b" />
+$\color{#441d7a}\textsf{i dont really have a dni apart from like the general dni}$
+<img width="20" height="20" alt="purple4" src="https://github.com/user-attachments/assets/a02b3f06-85a4-4664-908b-60d370aff417" />
 </p>
 <p align="center">
-<img src="https://dividers.crd.co/assets/images/gallery05/aa1d7070.png?v=05d33f91" alt="Untitled"/>
+<img width="509" height="37" alt="4f7dddaf" src="https://github.com/user-attachments/assets/b94ba053-2b7a-41db-864a-4e913a811982" />
+
 </p>
 <p align="center">
 <img width="99" height="57" alt="crackcocaine" src="https://github.com/user-attachments/assets/33856082-379b-4ab7-a689-9730e4a0ae35" />

@@ -87,4 +87,5 @@ $\color{#441d7a}\textsf{i dont really have a dni apart from like the general dni
 </p>
 <p align="center">
 <img width="597" height="39" alt="Screenshot 2026-08-16 1 18 26 AM" src="https://github.com/user-attachments/assets/f34ffc43-199b-48d4-a25e-62fb23b8538a" />
+<img width="395" height="58" alt="Screenshot 2026-10-03 7 44 23 PM" src="https://github.com/user-attachments/assets/437ca7ed-f826-4569-8b25-0df99e0c1ccd" />
 

@@ -34,7 +34,7 @@
 </p>
 <p align="center"
   
-  $\color{#664694}\textsf{my name is mega/dom but i respond to anything}$ 
+  $\color{#664694}\textsf{my name is coil/kade but i respond to anything}$ 
 </p>
 
 <p align="center">

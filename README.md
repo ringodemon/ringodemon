@@ -31,8 +31,8 @@ $\color{#fadecd}\textsf{"All my gente, they know that I've been that shit"}$
 <img width="20" height="20" alt="15" src="https://github.com/user-attachments/assets/68febaed-6f1f-48bf-b429-d067b4e00a6d" />
 
 </p>
-<p align="center"
-  $\color{#fadecd}\textsf{my name is coil/zuka but i respond to anything}$ 
+<p align="center">
+ $\color{#fadecd}\textsf{my name is coil/zuka but i respond to anything}$ 
 </p>
 <p align="center">
  $\color{#e0c2af}\textsf{19 | adhd | infp-t | 5w6 }$

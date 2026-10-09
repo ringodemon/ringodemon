@@ -32,7 +32,7 @@ $\color{#fadecd}\textsf{"All my gente, they know that I've been that shit"}$
 
 </p>
 <p align="center">
- $\color{#fadecd}\textsf{my name is coil/zuka but i respond to anything}$ 
+ $\color{#fadecd}\textsf{my name is zuka/coil but i respond to anything}$ 
 </p>
 <p align="center">
  $\color{#e0c2af}\textsf{19 | adhd | infp-t | 5w6 }$

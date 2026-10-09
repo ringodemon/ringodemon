@@ -46,6 +46,8 @@ $\color{#fadecd}\textsf{"All my gente, they know that I've been that shit"}$
 $\color{#c2a593}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
 </p>
 <p align="center">
+$\color{#c2a593}\textsf{if you have c+h i WILL end up near you dont get surprised}$
+<p align="center">
 <img width="20" height="20" alt="20" src="https://github.com/user-attachments/assets/0a22d8e0-b3dd-4edc-968f-7f877ded932a" />
 $\color{#c2a593}\textsf{i dont really have a dni apart from like the general dni}$
 <img width="20" height="20" alt="20" src="https://github.com/user-attachments/assets/39c57bf2-8b55-4c72-8941-2afa65adfd08" />

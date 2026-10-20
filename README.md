@@ -27,7 +27,7 @@
 
 <p align="center">
 <img width="20" height="20" alt="14" src="https://github.com/user-attachments/assets/ee40ef14-0635-480c-856a-3d7b4d2cbefc" />
-$\color{#e8e2df}\textsf{"All my gente, they know that I've been that shit"}$ 
+$\color{#e8e2df}\textsf{warning fool coming thru warning}$ 
 <img width="20" height="20" alt="15" src="https://github.com/user-attachments/assets/68febaed-6f1f-48bf-b429-d067b4e00a6d" />
 
 </p>

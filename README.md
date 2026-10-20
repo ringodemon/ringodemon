@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/736x/9e/84/e2/9e84e27feb8e44ba10ab8ee0fd951b85.jpg" alt="This may contain: two people standing next to each other in front of a drawing"/>
+<img src="https://i.pinimg.com/736x/7f/49/be/7f49beb342bb2f162bc6b99308fbd074.jpg"
 </p>
 <p align="center">
 <img width="52" height="18" alt="80" src="https://github.com/user-attachments/assets/11efb3e1-c2f8-4a7f-b81f-ca6f8f0382c7" />
@@ -27,29 +27,29 @@
 
 <p align="center">
 <img width="20" height="20" alt="14" src="https://github.com/user-attachments/assets/ee40ef14-0635-480c-856a-3d7b4d2cbefc" />
-$\color{#fadecd}\textsf{"All my gente, they know that I've been that shit"}$ 
+$\color{#e8e2df}\textsf{"All my gente, they know that I've been that shit"}$ 
 <img width="20" height="20" alt="15" src="https://github.com/user-attachments/assets/68febaed-6f1f-48bf-b429-d067b4e00a6d" />
 
 </p>
 <p align="center">
- $\color{#fadecd}\textsf{my name is bio/mikko but i respond to anything}$ 
+ $\color{#e8e2df}\textsf{my name is Yuliy/Leon but i respond to anything}$ 
 </p>
 <p align="center">
- $\color{#e0c2af}\textsf{19 | adhd | infp-t | 5w6 }$
+ $\color{#d1c8c2}\textsf{19 | adhd | infp-t | 5w6 }$
  </p>
  <p align="center">
 <img width="20" height="20" alt="11" src="https://github.com/user-attachments/assets/2219a714-15ee-45a2-aec3-e92ce3bac6d8" />
- $\color{#e0c2af}\textsf{it/its , he/him. pings usually off }$
+ $\color{#d1c8c2}\textsf{it/its , he/him. pings usually off }$
 <img width="20" height="20" alt="11" src="https://github.com/user-attachments/assets/8f152838-9a51-4b64-a5f6-f5e3f2f8c546" />
 </p>
 <p align="center">
-$\color{#c2a593}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
+$\color{#bfb6b0}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
 </p>
 <p align="center">
-$\color{#c2a593}\textsf{if i see c+h i WILL be on you}$
+$\color{#bfb6b0}\textsf{if i see c+h i WILL be on you}$
 <p align="center">
 <img width="20" height="20" alt="20" src="https://github.com/user-attachments/assets/0a22d8e0-b3dd-4edc-968f-7f877ded932a" />
-$\color{#c2a593}\textsf{i dont really have a dni apart from like the general dni}$
+$\color{#bfb6b0}\textsf{i dont really have a dni apart from like the general dni}$
 <img width="20" height="20" alt="20" src="https://github.com/user-attachments/assets/39c57bf2-8b55-4c72-8941-2afa65adfd08" />
 </p>
 <p align="center">

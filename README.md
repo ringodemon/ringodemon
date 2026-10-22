@@ -80,6 +80,8 @@ $\color{#bfb6b0}\textsf{i dont really have a dni apart from like the general dni
 <img width="350" height="19" alt="tumblr_98cf14b6215879a8c89952675ad52536_91e7ed65_400" src="https://github.com/user-attachments/assets/54e543ca-2c99-40b5-97ba-c2472c9a9878" />
 <img width="350" height="19" alt="tumblr_8e062fcf14c608630f4513996f518bdc_10e87b77_400" src="https://github.com/user-attachments/assets/606bfbaf-fb7b-451c-bc30-2cb79a3185a0" />
 <img width="350" height="19" alt="tumblr_ca2dbc328515b5a8a0409f6b1f5e3b5e_958adc69_400" src="https://github.com/user-attachments/assets/9764cd3b-3469-4422-9a8c-4a12a8f0a695" />
+<img width="350" height="19" alt="4" src="https://github.com/user-attachments/assets/fdbe6d13-753a-4d2c-8d64-fd38b7f8397e" />
+<img width="350" height="19" alt="4" src="https://github.com/user-attachments/assets/72d1e8a3-1747-4d52-a9ca-f4d6c8d15396" />
 
 
 </p>

@@ -32,7 +32,7 @@ $\color{#e8e2df}\textsf{warning fool coming thru warning}$
 
 </p>
 <p align="center">
- $\color{#e8e2df}\textsf{my name is Yuliy/Leon but i respond to anything}$ 
+ $\color{#e8e2df}\textsf{my name is Ed/Yuliy but i respond to anything}$ 
 </p>
 <p align="center">
  $\color{#d1c8c2}\textsf{19 | adhd | infp-t | 5w6 }$

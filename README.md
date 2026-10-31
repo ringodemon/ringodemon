@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/736x/7f/49/be/7f49beb342bb2f162bc6b99308fbd074.jpg"
+BIG REWORK
 </p>
 <p align="center">
 <img width="52" height="18" alt="80" src="https://github.com/user-attachments/assets/11efb3e1-c2f8-4a7f-b81f-ca6f8f0382c7" />
@@ -32,7 +32,7 @@ $\color{#e8e2df}\textsf{warning fool coming thru warning}$
 
 </p>
 <p align="center">
- $\color{#e8e2df}\textsf{my name is Ed/Yuliy but i respond to anything}$ 
+ $\color{#e8e2df}\textsf{my name is Ed but i respond to anything}$ 
 </p>
 <p align="center">
  $\color{#d1c8c2}\textsf{19 | adhd | infp-t | 5w6 }$
@@ -66,22 +66,14 @@ $\color{#bfb6b0}\textsf{i dont really have a dni apart from like the general dni
 
 </p>
 <p align="center">
-<img width="350" height="19" alt="tumblr_778751e5e8c2cbdb41148f59939f5700_ec44fca4_400" src="https://github.com/user-attachments/assets/2a4e803c-96cb-4510-93d5-91bbd7b8fe33" />
-<img width="350" height="19" alt="tumblr_1b2bb615a65c100de143f8e08e1b1250_6fdaf109_400" src="https://github.com/user-attachments/assets/7878e315-430d-4d88-9443-4225119de816" />
-<img width="350" height="19" alt="tumblr_afe81b9ef5b58048569b7d8c32ed2660_696456c1_400" src="https://github.com/user-attachments/assets/9c9497c5-0713-433d-b63e-326e1d79d8fc" />
-<img width="350" height="19" alt="tumblr_8ffd6eca5a66da1fdef7535efb7aa643_4cf7c1f0_400" src="https://github.com/user-attachments/assets/40356d43-8cef-4048-b760-ce4af4d9a88f" />
-<img width="350" height="19" alt="tumblr_b77471abcb709637aff9911f7f87bc68_6821eddf_400" src="https://github.com/user-attachments/assets/b563e45c-0fd1-42c6-ac7c-d7ce0c2eeaff" />
-<img width="350" height="19" alt="tumblr_5ff6b3ee26a2bce8888436fd8a2400a5_d33ff1d9_400" src="https://github.com/user-attachments/assets/5cf11e56-0638-4802-80cd-c5c826c56ecd" />
-<img width="350" height="19" alt="tumblr_4ca8a982e7c0541e080e438aa20b620a_209a4c0b_400" src="https://github.com/user-attachments/assets/0248edba-3971-4fd9-a42d-4d28a482d51c" />
-<img width="350" height="19" alt="tumblr_46fd6b43d051024080abb528633386f7_8a53fdf9_400" src="https://github.com/user-attachments/assets/7ce8df89-7b6b-4083-8149-1f57f867cbf9" />
-<img width="350" height="19" alt="tumblr_98742db4cca41280668709a1360e57f0_24c3d59e_400" src="https://github.com/user-attachments/assets/94bba1b1-9284-4b97-af2e-e679129fc11f" />
-<img width="350" height="19" alt="tumblr_6f47b1347ef55d7d3d2fc67e6e6fa38d_a276acfd_400" src="https://github.com/user-attachments/assets/480e3488-3650-46d0-a072-1cb6ebb1da62" />
-<img width="350" height="19" alt="tumblr_8e23d7a15513b9d25768dc58b20b892d_08ae8edf_400" src="https://github.com/user-attachments/assets/24fd5d9b-2f0b-4899-af81-bdd9e9f471b7" />
-<img width="350" height="19" alt="tumblr_98cf14b6215879a8c89952675ad52536_91e7ed65_400" src="https://github.com/user-attachments/assets/54e543ca-2c99-40b5-97ba-c2472c9a9878" />
-<img width="350" height="19" alt="tumblr_8e062fcf14c608630f4513996f518bdc_10e87b77_400" src="https://github.com/user-attachments/assets/606bfbaf-fb7b-451c-bc30-2cb79a3185a0" />
-<img width="350" height="19" alt="tumblr_ca2dbc328515b5a8a0409f6b1f5e3b5e_958adc69_400" src="https://github.com/user-attachments/assets/9764cd3b-3469-4422-9a8c-4a12a8f0a695" />
-<img width="350" height="19" alt="4" src="https://github.com/user-attachments/assets/fdbe6d13-753a-4d2c-8d64-fd38b7f8397e" />
-<img width="350" height="19" alt="4" src="https://github.com/user-attachments/assets/72d1e8a3-1747-4d52-a9ca-f4d6c8d15396" />
+
+
+<img width="350" height="19" alt="image" src="https://github.com/user-attachments/assets/fa006c08-276c-4d59-9f59-f7e0692a9200" />
+<img width="350" height="19" alt="image" src="https://github.com/user-attachments/assets/6350c467-0b30-42e0-b60f-357779b7237b" />
+<img width="350" height="19" alt="image" src="https://github.com/user-attachments/assets/80601651-0b7d-4ad5-89c2-83dd0574ff22" />
+<img width="350" height="20" alt="image" src="https://github.com/user-attachments/assets/694fd794-a620-45a5-92d8-32b507f10d33" />
+<img width="350" height="19" alt="image" src="https://github.com/user-attachments/assets/fe0e15e5-790e-4df9-9df2-b9bc858816eb" />
+<img width="350" height="19" alt="image" src="https://github.com/user-attachments/assets/65957bbf-c39c-40cc-a7ee-2c488a445435" />
 
 
 </p>

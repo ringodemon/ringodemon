@@ -2,19 +2,7 @@
 BIG REWORK
 </p>
 <p align="center">
-<img width="52" height="18" alt="80" src="https://github.com/user-attachments/assets/11efb3e1-c2f8-4a7f-b81f-ca6f8f0382c7" />
-<img width="47" height="18" alt="87" src="https://github.com/user-attachments/assets/b6d07abe-3f34-406d-806c-068bac0efff0" />
-<img width="58" height="18" alt="55" src="https://github.com/user-attachments/assets/43025569-2fda-4a25-aa8e-9a7027e3a82d" />
-<img width="67" height="18" alt="3" src="https://github.com/user-attachments/assets/91886e84-5115-47b3-8baf-9c0fe57a87c8" />
-<img width="60" height="17" alt="9" src="https://github.com/user-attachments/assets/1dd56ada-794c-4a3e-862a-df3ae22c978f" />
-<img width="78" height="18" alt="25" src="https://github.com/user-attachments/assets/6fbf7185-6f82-438d-b7d1-cd1125cc42d2" />
-<img width="78" height="18" alt="39" src="https://github.com/user-attachments/assets/99144092-782b-41b4-be74-e622ea5d6dd9" />
-<img width="51" height="18" alt="53" src="https://github.com/user-attachments/assets/e21885e5-aef9-4412-88a0-16b4d97d7a23" />
-<img width="57" height="18" alt="1" src="https://github.com/user-attachments/assets/14c90572-582e-4a65-b855-24f5cb2798e7" />
-<img width="53" height="18" alt="47" src="https://github.com/user-attachments/assets/d830364f-30cb-4d59-9977-a6c5d603a955" />
-<img width="51" height="18" alt="14" src="https://github.com/user-attachments/assets/480c6a2a-3f78-4a4b-93be-489631a7c57d" />
-<img width="52" height="18" alt="5" src="https://github.com/user-attachments/assets/cbfb69ca-f165-4fc3-9469-91acc9eb91cf" />
-<img width="44" height="18" alt="4" src="https://github.com/user-attachments/assets/3c5e9d3f-319a-4c50-b68a-8fdae7d2baa6" />
+
 </p>
 <p align="center">
 <img width="80" height="15" alt="badgearies" src="https://github.com/user-attachments/assets/c05afe77-82ac-4bb2-b02b-7f1e71340218" />

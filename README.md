@@ -85,15 +85,4 @@ $\color{#bfb6b0}\textsf{i dont really have a dni apart from like the general dni
 
 
 </p>
-<p align="center">
-<img width="597" height="39" alt="Screenshot 2026-08-16 1 18 26 AM" src="https://github.com/user-attachments/assets/f34ffc43-199b-48d4-a25e-62fb23b8538a" />
-</p>
-<p align="center">
-<img width="395" height="58" alt="Screenshot 2026-10-03 7 44 23 PM" src="https://github.com/user-attachments/assets/437ca7ed-f826-4569-8b25-0df99e0c1ccd" />  
-</p>
-<p align="center">
-<img width="304" height="51" alt="Screenshot 2026-10-11 8 19 34 PM" src="https://github.com/user-attachments/assets/7b86bfac-1f5c-4bfd-a251-a12a7262b153" />
-</p>
-<p align="center">
-<img width="229" height="36" alt="Screenshot 2026-10-18 4 16 23 AM" src="https://github.com/user-attachments/assets/85f0743b-ea0f-46cd-8b80-b4e59cdb9da7" />
-</p>
+

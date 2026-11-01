@@ -1,56 +1,69 @@
 <p align="center">
-BIG REWORK
+<img width="500" height="521" alt="7afa00b13a45ec7d9bb442536b496d0b-Picsart-BackgroundRemover" src="https://github.com/user-attachments/assets/860e52be-793f-4e2f-b47c-63d6d8a29202" />
 </p>
 <p align="center">
+<img width="100" height="100" alt="output-onlinegiftools" src="https://github.com/user-attachments/assets/f886ec81-d684-49e3-b421-c48074f4eb3c" />
+<img width="75" height="74" alt="output-onlinegiftools (1)" src="https://github.com/user-attachments/assets/3255c5c8-486d-42f6-932c-182e6a8aa642" />
+<img width="95" height="95" alt="download" src="https://github.com/user-attachments/assets/4b3aa4d5-593c-4ac9-8202-9337c99499af" />
+</p>
+<p align="center">
+<img width="75" height="18" alt="24" src="https://github.com/user-attachments/assets/704db884-edd5-4c2e-a84f-42f4ba65fc11" />
+<img width="74" height="18" alt="61" src="https://github.com/user-attachments/assets/87275657-d039-4156-bb6d-6cae455ee66c" />
+<img width="52" height="18" alt="5" src="https://github.com/user-attachments/assets/355147a4-fab1-4578-af22-3a8a50e00892" />
+<img width="69" height="18" alt="10" src="https://github.com/user-attachments/assets/d8e0cce1-de30-4e21-b1b3-130a215f4aaa" />
+<img width="67" height="18" alt="3" src="https://github.com/user-attachments/assets/235ea94a-ac8d-4aa1-96ac-941af8c1d7cb" />
+<img width="80" height="18" alt="1" src="https://github.com/user-attachments/assets/82c08e33-cb59-448e-85c9-c6371e1e0604" />
+<img width="78" height="18" alt="5" src="https://github.com/user-attachments/assets/f5c2dce0-fea7-4ff0-8803-8a0cf1e9b880" />
+<img width="72" height="18" alt="42" src="https://github.com/user-attachments/assets/98deb335-1492-4984-b354-3c6008096b94" />
+</p>
+<p align="center">
+<img width="80" height="15" alt="badgearies" src="https://github.com/user-attachments/assets/0a5c7768-5fdf-4e92-a305-b0fdbfdc9cf6" />
+<img width="80" height="15" alt="books" src="https://github.com/user-attachments/assets/5febd52c-fda5-404c-aa46-9f876669ab28" />
+<img width="80" height="15" alt="monthapril" src="https://github.com/user-attachments/assets/61698874-1edc-47d9-857d-e7c56fcb0b87" />
+<img width="80" height="15" alt="singreed" src="https://github.com/user-attachments/assets/d58a22d4-3d4a-4def-a6fc-0707f4e8c0cd" />
+<img width="80" height="15" alt="sinenvy" src="https://github.com/user-attachments/assets/3156c4cb-d2ef-4009-9abd-b25dc7b8b315" />
+<img width="80" height="15" alt="anime" src="https://github.com/user-attachments/assets/a3645a28-cafb-477d-a58f-7bb60760484e" />
 
 </p>
-<p align="center">
-<img width="80" height="15" alt="badgearies" src="https://github.com/user-attachments/assets/c05afe77-82ac-4bb2-b02b-7f1e71340218" />
-<img width="80" height="15" alt="anime" src="https://github.com/user-attachments/assets/0f501aa1-e936-4341-9ba9-859c146b72fe" />
-<img width="80" height="15" alt="monthapril" src="https://github.com/user-attachments/assets/3fe7f747-26fa-4c8f-90c7-c76afc71e202" />
-<img width="80" height="15" alt="singluttony" src="https://github.com/user-attachments/assets/16a37914-33ee-4a05-abc8-72da06dd744f" />
-<img width="80" height="15" alt="sinpride" src="https://github.com/user-attachments/assets/27f486fc-0545-4d6b-a3d4-eff96668571b" />
-<img width="80" height="15" alt="ps2" src="https://github.com/user-attachments/assets/4c52f9fd-92b7-4b0e-8b99-e010045efa59" />
-</p>
 
 <p align="center">
-<img width="20" height="20" alt="14" src="https://github.com/user-attachments/assets/ee40ef14-0635-480c-856a-3d7b4d2cbefc" />
-$\color{#e8e2df}\textsf{warning fool coming thru warning}$ 
-<img width="20" height="20" alt="15" src="https://github.com/user-attachments/assets/68febaed-6f1f-48bf-b429-d067b4e00a6d" />
-
+<img width="20" height="20" alt="tumblr_d09375f3f7b0b727a4f43e1109324694_78099d51_1280" src="https://github.com/user-attachments/assets/2b617981-6c47-4fd1-bbe8-7496219f09ca" />
+$\color{#802226}\textsf{“It's a cruel and random world, but the chaos is all so beautiful.”}$ 
+<img width="20" height="20" alt="tumblr_d09375f3f7b0b727a4f43e1109324694_78099d51_1280" src="https://github.com/user-attachments/assets/2b617981-6c47-4fd1-bbe8-7496219f09ca" />
 </p>
 <p align="center">
- $\color{#e8e2df}\textsf{my name is Ed but i respond to anything}$ 
+ $\color{#802226}\textsf{my name is Ed but i respond to anything}$ 
 </p>
 <p align="center">
- $\color{#d1c8c2}\textsf{19 | adhd | infp-t | 5w6 }$
+ $\color{#802226}\textsf{19 | adhd | infp-t | 5w6 }$
  </p>
  <p align="center">
-<img width="20" height="20" alt="11" src="https://github.com/user-attachments/assets/2219a714-15ee-45a2-aec3-e92ce3bac6d8" />
- $\color{#d1c8c2}\textsf{it/its , he/him. pings usually off }$
-<img width="20" height="20" alt="11" src="https://github.com/user-attachments/assets/8f152838-9a51-4b64-a5f6-f5e3f2f8c546" />
+<img width="20" height="20" alt="tumblr_25dc7a0f5819a06a692dd28f4d439293_6d0b4c52_1280" src="https://github.com/user-attachments/assets/ce2b3c03-1a3e-47cd-badd-e7dfd357036e" />
+ $\color{#802226}\textsf{he/him. pings usually off }$
+<img width="20" height="20" alt="tumblr_25dc7a0f5819a06a692dd28f4d439293_6d0b4c52_1280" src="https://github.com/user-attachments/assets/ce2b3c03-1a3e-47cd-badd-e7dfd357036e" />
 </p>
 <p align="center">
-$\color{#bfb6b0}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
+$\color{#802226}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
 </p>
 <p align="center">
-$\color{#bfb6b0}\textsf{if i see c+h i WILL be on you}$
+$\color{#802226}\textsf{if i see c+h i WILL be on you}$
 <p align="center">
-<img width="20" height="20" alt="20" src="https://github.com/user-attachments/assets/0a22d8e0-b3dd-4edc-968f-7f877ded932a" />
-$\color{#bfb6b0}\textsf{i dont really have a dni apart from like the general dni}$
-<img width="20" height="20" alt="20" src="https://github.com/user-attachments/assets/39c57bf2-8b55-4c72-8941-2afa65adfd08" />
+<img width="20" height="20" alt="tumblr_5373a1801000674521b8f371e3a87c89_b1e9354a_1280" src="https://github.com/user-attachments/assets/2e7cdf02-22e1-4473-ba65-fea10a01df94" />
+$\color{#802226}\textsf{i dont really have a dni apart from like the general dni}$
+<img width="20" height="20" alt="tumblr_5373a1801000674521b8f371e3a87c89_b1e9354a_1280" src="https://github.com/user-attachments/assets/2e7cdf02-22e1-4473-ba65-fea10a01df94" />
 </p>
 <p align="center">
-<img width="400" height="132" alt="51710205" src="https://github.com/user-attachments/assets/c3f47d48-7028-4596-b850-b2151ace9ad3" />
+<img width="561" height="11" alt="24" src="https://github.com/user-attachments/assets/a8ae6c09-a814-4c40-9392-679f82daa32e" />
+
 </p>
 <p align="center">
-<img width="99" height="57" alt="crackcocaine" src="https://github.com/user-attachments/assets/33856082-379b-4ab7-a689-9730e4a0ae35" />
-<img width="99" height="56" alt="horror" src="https://github.com/user-attachments/assets/6a801aa9-74af-4a6a-8e74-51561a51f903" />
-<img width="99" height="56" alt="arceus" src="https://github.com/user-attachments/assets/82a5625a-9841-4f03-80cc-600b41dd0204" />
-<img width="99" height="56" alt="glassanimals" src="https://github.com/user-attachments/assets/44eeafa5-5a8a-408d-ab3f-fe8d511d8870" />
-<img width="99" height="56" alt="rockmusic" src="https://github.com/user-attachments/assets/1b0f3501-627a-4afd-8fa0-79d3794b5297" />
-<img width="99" height="56" alt="luckystar" src="https://github.com/user-attachments/assets/2c7cc661-3533-499f-a3b3-543a8c0b477d" />
-<img width="99" height="56" alt="fnaf" src="https://github.com/user-attachments/assets/45d03b93-a9b9-4547-9c3d-33aa19a706ff" />
+<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/db6ec2db-0ef8-44f1-bdc7-11c290ee53ba" />
+<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/3a22aa2d-0ea2-494c-a8c4-9af45a595f0c" />
+<img width="99" height="56" alt="b" src="https://github.com/user-attachments/assets/ad222e94-de00-427a-8cb0-070b368655cb" />
+<img width="101" height="57" alt="dcyd9ln-a8ddab1c-5096-4c8e-9378-a713ef3b16b4" src="https://github.com/user-attachments/assets/fd8a0e28-4c62-452a-8d4e-3a2cba9930a0" />
+<img width="103" height="60" alt="image" src="https://github.com/user-attachments/assets/5108ea88-0e63-4dc8-9677-52ca4bbf59af" />
+<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/c4b65d99-0193-468c-9d6c-28c2e43404cc" />
+<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/14d91385-f148-4106-9e2d-4aa7b054218e" />
 
 </p>
 <p align="center">

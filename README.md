@@ -1,10 +1,8 @@
 <p align="center">
-<img width="500" height="521" alt="7afa00b13a45ec7d9bb442536b496d0b-Picsart-BackgroundRemover" src="https://github.com/user-attachments/assets/860e52be-793f-4e2f-b47c-63d6d8a29202" />
+<img width="736" height="736" alt="kimblee (3)" src="https://github.com/user-attachments/assets/1a1adeff-eee2-4cc3-a53e-a7dfd18a7edd" />
 </p>
 <p align="center">
-<img width="100" height="100" alt="output-onlinegiftools" src="https://github.com/user-attachments/assets/f886ec81-d684-49e3-b421-c48074f4eb3c" />
-<img width="75" height="74" alt="output-onlinegiftools (1)" src="https://github.com/user-attachments/assets/3255c5c8-486d-42f6-932c-182e6a8aa642" />
-<img width="95" height="95" alt="download" src="https://github.com/user-attachments/assets/4b3aa4d5-593c-4ac9-8202-9337c99499af" />
+
 </p>
 <p align="center">
 <img width="75" height="18" alt="24" src="https://github.com/user-attachments/assets/704db884-edd5-4c2e-a84f-42f4ba65fc11" />

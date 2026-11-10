@@ -2,8 +2,8 @@
 <img width="736" height="736" alt="kimblee (3)" src="https://github.com/user-attachments/assets/1a1adeff-eee2-4cc3-a53e-a7dfd18a7edd" />
 </p>
 <p align="center">
+<img width="736" height="126" alt="2026_11_10_0cd_Kleki" src="https://github.com/user-attachments/assets/79a02d26-31dd-48cd-ab7f-510f2d58b8bc" />
 
-</p>
 <p align="center">
 <img width="75" height="18" alt="24" src="https://github.com/user-attachments/assets/704db884-edd5-4c2e-a84f-42f4ba65fc11" />
 <img width="74" height="18" alt="61" src="https://github.com/user-attachments/assets/87275657-d039-4156-bb6d-6cae455ee66c" />
@@ -25,44 +25,43 @@
 </p>
 
 <p align="center">
-<img width="20" height="20" alt="tumblr_d09375f3f7b0b727a4f43e1109324694_78099d51_1280" src="https://github.com/user-attachments/assets/2b617981-6c47-4fd1-bbe8-7496219f09ca" />
-$\color{#802226}\textsf{“It's a cruel and random world, but the chaos is all so beautiful.”}$ 
-<img width="20" height="20" alt="tumblr_d09375f3f7b0b727a4f43e1109324694_78099d51_1280" src="https://github.com/user-attachments/assets/2b617981-6c47-4fd1-bbe8-7496219f09ca" />
+<img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
+$\color{#a9a7b0}\textsf{Solf J.Kimblee yumeshipper!(hypersharing)}$ 
+<img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
 </p>
 <p align="center">
- $\color{#802226}\textsf{my name is Ed but i respond to anything}$ 
+ $\color{#a9a7b0}\textsf{my name is Ed but i respond to anything}$ 
 </p>
 <p align="center">
- $\color{#802226}\textsf{19 | adhd | infp-t | 5w6 }$
+ $\color{#a9a7b0}\textsf{19 | adhd | infp-t | 5w6 }$
  </p>
  <p align="center">
-<img width="20" height="20" alt="tumblr_25dc7a0f5819a06a692dd28f4d439293_6d0b4c52_1280" src="https://github.com/user-attachments/assets/ce2b3c03-1a3e-47cd-badd-e7dfd357036e" />
- $\color{#802226}\textsf{he/him. pings usually off }$
-<img width="20" height="20" alt="tumblr_25dc7a0f5819a06a692dd28f4d439293_6d0b4c52_1280" src="https://github.com/user-attachments/assets/ce2b3c03-1a3e-47cd-badd-e7dfd357036e" />
+<img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
+$\color{#a9a7b0}\textsf{he/him. pings usually off }$
+<img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
 </p>
 <p align="center">
-$\color{#802226}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
+$\color{#a9a7b0}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
 </p>
 <p align="center">
-$\color{#802226}\textsf{if i see c+h i WILL be on you}$
+$\color{#a9a7b0}\textsf{if i see c+h i WILL be on you}$
 <p align="center">
-<img width="20" height="20" alt="tumblr_5373a1801000674521b8f371e3a87c89_b1e9354a_1280" src="https://github.com/user-attachments/assets/2e7cdf02-22e1-4473-ba65-fea10a01df94" />
-$\color{#802226}\textsf{i dont really have a dni apart from like the general dni}$
-<img width="20" height="20" alt="tumblr_5373a1801000674521b8f371e3a87c89_b1e9354a_1280" src="https://github.com/user-attachments/assets/2e7cdf02-22e1-4473-ba65-fea10a01df94" />
+<img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
+$\color{#a9a7b0}\textsf{i dont really have a dni apart from like the general dni}$
+<img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
 </p>
 <p align="center">
-<img width="561" height="11" alt="24" src="https://github.com/user-attachments/assets/a8ae6c09-a814-4c40-9392-679f82daa32e" />
-
+<img width="404" height="95" alt="2026_11_10_0ch_Kleki" src="https://github.com/user-attachments/assets/62a006ca-d440-4d99-b3fd-d59f554b22e1" />
 </p>
 <p align="center">
-<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/db6ec2db-0ef8-44f1-bdc7-11c290ee53ba" />
-<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/3a22aa2d-0ea2-494c-a8c4-9af45a595f0c" />
-<img width="99" height="56" alt="b" src="https://github.com/user-attachments/assets/ad222e94-de00-427a-8cb0-070b368655cb" />
-<img width="101" height="57" alt="dcyd9ln-a8ddab1c-5096-4c8e-9378-a713ef3b16b4" src="https://github.com/user-attachments/assets/fd8a0e28-4c62-452a-8d4e-3a2cba9930a0" />
-<img width="103" height="60" alt="image" src="https://github.com/user-attachments/assets/5108ea88-0e63-4dc8-9677-52ca4bbf59af" />
-<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/c4b65d99-0193-468c-9d6c-28c2e43404cc" />
-<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/14d91385-f148-4106-9e2d-4aa7b054218e" />
-
+<img width="99" height="56" alt="_solf_j_kimblee_stamp__by_leeechan_d49gx2q-fullview" src="https://github.com/user-attachments/assets/d206f7f2-6edd-4c3d-acaa-e2ffc725b84d" />
+<img width="99" height="56" alt="hardlyatall" src="https://github.com/user-attachments/assets/3ed8e9df-9581-459f-9e29-50c93ec41465" />
+<img width="99" height="56" alt="fmastamp" src="https://github.com/user-attachments/assets/e1b1608b-edd5-4102-8e1a-7a09d08dd5dc" />
+<img width="99" height="56" alt="dbzfivi-0fe4ab6c-307f-412e-8315-b485dba766c5" src="https://github.com/user-attachments/assets/93d1dca0-043f-4962-8578-ea20161c3e8f" />
+<img width="99" height="56" alt="7e0e7a1d" src="https://github.com/user-attachments/assets/242061cc-ba15-4be3-88d5-003cf4d57800" />
+<img width="99" height="56" alt="447defb8" src="https://github.com/user-attachments/assets/a346f640-64c2-4c02-b2ba-f1cdb5902855" />
+<img width="99" height="55" alt="9a367a97" src="https://github.com/user-attachments/assets/f2b2ac2c-b4c9-4391-8584-0fa455359247" />
+<img width="99" height="56" alt="1648629c" src="https://github.com/user-attachments/assets/fd0fc8d9-b062-46d6-a091-314e69a39800" />
 </p>
 <p align="center">
 

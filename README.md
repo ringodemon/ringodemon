@@ -26,28 +26,28 @@
 
 <p align="center">
 <img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
-$\color{#a9a7b0}\textsf{Solf J.Kimblee yumeshipper!(hypersharing)}$ 
+$\color{#f9f7f8}\textsf{Solf J.Kimblee yumeshipper!(hypersharing)}$ 
 <img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
 </p>
 <p align="center">
- $\color{#a9a7b0}\textsf{my name is Ed but i respond to anything}$ 
+ $\color{#f9f7f8}\textsf{my name is Ed but i respond to anything}$ 
 </p>
 <p align="center">
- $\color{#a9a7b0}\textsf{19 | adhd | infp-t | 5w6 }$
+ $\color{#f9f7f8}\textsf{19 | adhd | infp-t | 5w6 }$
  </p>
  <p align="center">
 <img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
-$\color{#a9a7b0}\textsf{he/him. pings usually off }$
+$\color{#f9f7f8}\textsf{he/him. pings usually off }$
 <img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
 </p>
 <p align="center">
-$\color{#a9a7b0}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
+$\color{#f9f7f8}\textsf{for pt: c*h heavliy enc ✧ dncopy }$
 </p>
 <p align="center">
-$\color{#a9a7b0}\textsf{if i see c+h i WILL be on you}$
+$\color{#f9f7f8}\textsf{if i see c+h i WILL be on you}$
 <p align="center">
 <img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
-$\color{#a9a7b0}\textsf{i dont really have a dni apart from like the general dni}$
+$\color{#f9f7f8}\textsf{i dont really have a dni apart from like the general dni}$
 <img width="20" height="20" alt="12" src="https://github.com/user-attachments/assets/d9d65dae-2457-4b63-bdd6-0998a7f20283" />
 </p>
 <p align="center">
